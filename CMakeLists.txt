@@ -1,1 +1,0 @@
-project("Map generator")
